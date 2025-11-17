@@ -5,3 +5,5 @@ helm:
   values:
     name: sample-cm-d
   takeOwnership: true
+  releaseName: test-d
+namespace: default

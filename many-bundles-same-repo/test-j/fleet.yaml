@@ -5,3 +5,5 @@ helm:
   values:
     name: sample-cm-j
   takeOwnership: true
+  releaseName: test-j
+namespace: default

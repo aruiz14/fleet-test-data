@@ -5,3 +5,5 @@ helm:
   values:
     name: sample-cm-p
   takeOwnership: true
+  releaseName: test-p
+namespace: default
