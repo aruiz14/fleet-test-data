@@ -1,0 +1,7 @@
+helm:
+  repo: http://192.168.1.2:8080
+  chart: config-chart
+  version: 0.1.0
+  values:
+    name: sample-cm-t
+  takeOwnership: true
